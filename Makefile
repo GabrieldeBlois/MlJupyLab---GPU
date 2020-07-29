@@ -4,7 +4,7 @@ YELLOW := $(shell tput -Txterm setaf 3)
 RESET  := $(shell tput -Txterm sgr0)
 ARCH   := $(shell uname -m)
 
-BASE_IMAGE_NAME	= tool-flexylab/baseimage
+BASE_IMAGE_NAME	= mljupylab/baseimage
 
 IMAGE_NAME = ${IMAGE_NAME}
 

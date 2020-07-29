@@ -1,0 +1,9 @@
+numpy
+seaborn
+scipy
+scikit-learn
+pandas
+qgrid
+pytimeparse
+jupyterlab_code_formatter
+black
