@@ -1,5 +1,5 @@
 # created for flexper by gabriel@flexper.fr
-FROM mljupylab/baseimage:latest
+FROM gabrieldeblois/mljupylab:base
 
 RUN pip install --upgrade pip
 
